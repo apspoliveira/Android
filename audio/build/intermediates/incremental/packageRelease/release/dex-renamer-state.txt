@@ -1,0 +1,4 @@
+#Sun Nov 25 19:52:17 WET 2018
+base.0=/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/dex/release/0/classes.dex

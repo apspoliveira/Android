@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2701a3be277645460386fccfe1c46e12/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/afeff19be14e244c2755df7f13415a38/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5685eb3cef1f781ba462465f81fb337c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/19a3d562f13c6595d5a2aa5987477f19/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/05d722494dd2d8ccaa642d7b59fa64b4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/57acea6ac93ae9ec975e70819d4f09ef/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/491f52b0a6e6b55eac99df29debc52b6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/0ec9b276eae1825853e3384f40a2516e/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:3:11-39
+		INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+		INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:5:3-65
+	android:name
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:5:20-62
+application
+ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:7:3-22:17
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2701a3be277645460386fccfe1c46e12/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2701a3be277645460386fccfe1c46e12/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/afeff19be14e244c2755df7f13415a38/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/afeff19be14e244c2755df7f13415a38/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5685eb3cef1f781ba462465f81fb337c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5685eb3cef1f781ba462465f81fb337c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/19a3d562f13c6595d5a2aa5987477f19/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/19a3d562f13c6595d5a2aa5987477f19/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/05d722494dd2d8ccaa642d7b59fa64b4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/05d722494dd2d8ccaa642d7b59fa64b4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/57acea6ac93ae9ec975e70819d4f09ef/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/57acea6ac93ae9ec975e70819d4f09ef/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/491f52b0a6e6b55eac99df29debc52b6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/491f52b0a6e6b55eac99df29debc52b6/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/0ec9b276eae1825853e3384f40a2516e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/0ec9b276eae1825853e3384f40a2516e/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:11:6-32
+	android:label
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:9:6-38
+	android:roundIcon
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:10:6-51
+	android:icon
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:8:6-40
+	android:theme
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:12:6-37
+activity#com.examples.audio.MainActivity
+ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:14:5-21:16
+	android:configChanges
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:15:8-43
+	android:name
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:14:15-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:16:7-20:23
+action#android.intent.action.MAIN
+ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:17:9-61
+	android:name
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:17:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml:19:19-66
+uses-sdk
+INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2701a3be277645460386fccfe1c46e12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2701a3be277645460386fccfe1c46e12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/afeff19be14e244c2755df7f13415a38/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/afeff19be14e244c2755df7f13415a38/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5685eb3cef1f781ba462465f81fb337c/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5685eb3cef1f781ba462465f81fb337c/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/19a3d562f13c6595d5a2aa5987477f19/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/19a3d562f13c6595d5a2aa5987477f19/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/05d722494dd2d8ccaa642d7b59fa64b4/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/05d722494dd2d8ccaa642d7b59fa64b4/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/57acea6ac93ae9ec975e70819d4f09ef/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/57acea6ac93ae9ec975e70819d4f09ef/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/491f52b0a6e6b55eac99df29debc52b6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/491f52b0a6e6b55eac99df29debc52b6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/0ec9b276eae1825853e3384f40a2516e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/0ec9b276eae1825853e3384f40a2516e/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+		INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+		ADDED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+		INJECTED from /Users/antoniopedro/Documents/Android/examples/widget/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2701a3be277645460386fccfe1c46e12/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2701a3be277645460386fccfe1c46e12/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/afeff19be14e244c2755df7f13415a38/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/afeff19be14e244c2755df7f13415a38/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5685eb3cef1f781ba462465f81fb337c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5685eb3cef1f781ba462465f81fb337c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/19a3d562f13c6595d5a2aa5987477f19/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/19a3d562f13c6595d5a2aa5987477f19/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/05d722494dd2d8ccaa642d7b59fa64b4/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/05d722494dd2d8ccaa642d7b59fa64b4/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/57acea6ac93ae9ec975e70819d4f09ef/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/57acea6ac93ae9ec975e70819d4f09ef/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/491f52b0a6e6b55eac99df29debc52b6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/491f52b0a6e6b55eac99df29debc52b6/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/0ec9b276eae1825853e3384f40a2516e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/0ec9b276eae1825853e3384f40a2516e/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/AndroidManifest.xml:26:9-47

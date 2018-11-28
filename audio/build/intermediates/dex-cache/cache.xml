@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/491f52b0a6e6b55eac99df29debc52b6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/491f52b0a6e6b55eac99df29debc52b6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/57acea6ac93ae9ec975e70819d4f09ef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/57acea6ac93ae9ec975e70819d4f09ef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/19a3d562f13c6595d5a2aa5987477f19/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/491f52b0a6e6b55eac99df29debc52b6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/19a3d562f13c6595d5a2aa5987477f19/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/afeff19be14e244c2755df7f13415a38/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2701a3be277645460386fccfe1c46e12/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/afeff19be14e244c2755df7f13415a38/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2701a3be277645460386fccfe1c46e12/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2701a3be277645460386fccfe1c46e12/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/491f52b0a6e6b55eac99df29debc52b6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2701a3be277645460386fccfe1c46e12/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/afeff19be14e244c2755df7f13415a38/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/05d722494dd2d8ccaa642d7b59fa64b4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/0ec9b276eae1825853e3384f40a2516e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5685eb3cef1f781ba462465f81fb337c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5685eb3cef1f781ba462465f81fb337c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/0ec9b276eae1825853e3384f40a2516e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/05d722494dd2d8ccaa642d7b59fa64b4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/afeff19be14e244c2755df7f13415a38/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5685eb3cef1f781ba462465f81fb337c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/05d722494dd2d8ccaa642d7b59fa64b4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5685eb3cef1f781ba462465f81fb337c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/05d722494dd2d8ccaa642d7b59fa64b4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/19a3d562f13c6595d5a2aa5987477f19/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/19a3d562f13c6595d5a2aa5987477f19/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="24"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/57acea6ac93ae9ec975e70819d4f09ef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/57acea6ac93ae9ec975e70819d4f09ef/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/0ec9b276eae1825853e3384f40a2516e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/0ec9b276eae1825853e3384f40a2516e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/35748b4d1e51346735e916cec93cc40b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="25"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/audio/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+
+</items>

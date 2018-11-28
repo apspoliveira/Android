@@ -1,0 +1,4 @@
+#Tue Nov 20 23:40:27 WET 2018
+base.0=/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/dex/release/0/classes.dex

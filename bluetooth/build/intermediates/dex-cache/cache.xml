@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/63b4fe653c37224dbee26f4ab0ae7321/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/87f2b8fc110a4de907286831ca384238/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/1baf972cbdec81575fac8546f8153a52/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/377aa1849cfd7a359df7c6e2bb6109f8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/18885373697ce23a0ba962ab000ec6ff/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/6f1fcc216b2a4faaf338095d15244137/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/f92a448376bd853fcdc94a7992c22dbf/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/c797a538796a61c31837b3c448fb6be0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/4202892dd67466e5ae0b38bb3b248fb7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/45fbece3ff8e0e3f91b44b9784046919/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/8dd982680dadacf7a02045bbd9425276/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/antoniopedro/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/b6f4b01506adaf1ca6bfc37c3f391c75/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="22"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/antoniopedro/Documents/Android/examples/bluetooth/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">A Simple MediaPlayer</string>
+    <string name="message_seekbar">Setting Seekbar max to %d sec</string>
+</resources>
